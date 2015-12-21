@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "agitr")
+set(agitr_MAINTAINER "viki <viki@todo.todo>")
+set(agitr_DEPRECATED "")
+set(agitr_VERSION "0.0.0")
+set(agitr_BUILD_DEPENDS "message_generation" "roscpp" "geometry_msgs" "turtlesim")
+set(agitr_RUN_DEPENDS "message_runtime" "roscpp" "geometry_msgs" "turtlesim")
+set(agitr_BUILDTOOL_DEPENDS "catkin")

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/viki/ros/src/agitr/pubvel_backup.cpp
+ros/ros.h
+-
+geometry_msgs/Twist.h
+-
+stdlib.h
+-
+

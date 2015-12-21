@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package>
+  <name>agitr</name>
+  <version>0.0.0</version>
+  <description>The agitr package</description>
+  <maintainer email="viki@todo.todo">viki</maintainer>
+  <license>TODO</license>
+
+ <build_depend>message_generation</build_depend>
+ <run_depend>message_runtime</run_depend>
+
+ <build_depend>roscpp</build_depend>
+ <run_depend>roscpp</run_depend>
+
+ <build_depend>geometry_msgs</build_depend>
+ <run_depend>geometry_msgs</run_depend>
+
+ <build_depend>turtlesim</build_depend>
+ <run_depend>turtlesim</run_depend>
+
+ <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+  </export>
+</package>

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/viki/ros/src/agitr/subpose.cpp
+ros/ros.h
+-
+turtlesim/Pose.h
+-
+iomanip
+-
+geometry_msgs/Twist.h
+-
+

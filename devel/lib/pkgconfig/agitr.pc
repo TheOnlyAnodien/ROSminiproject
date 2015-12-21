@@ -1,0 +1,8 @@
+prefix=/home/viki/ros/devel
+
+Name: agitr
+Description: Description of agitr
+Version: 0.0.0
+Cflags: -I/home/viki/ros/devel/include
+Libs: -L/home/viki/ros/devel/lib 
+Requires: roscpp geometry_msgs turtlesim message_runtime
